@@ -1,2 +1,2 @@
 name: mycat
-imageRegistry: 
+imageRegistry: 10.0.0.33:60080/alaudaorg/mycat-docker:latest
