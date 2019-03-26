@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: mycat
-        image: jacob/mycat
+        image: 10.0.0.33:60080/alaudaorg/mycat-docker:latest
         imagePullPolicy: IfNotPresent
         env:
           - name: MYSQL_USER
